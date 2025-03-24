@@ -1,0 +1,45 @@
+body {
+font-family: serif;
+}
+
+table {
+width: 100%;
+border-collapse: callapse;
+}
+
+h1 {
+color: darkgray;
+/*cor do título*/
+}
+
+th {
+color: darkblue;
+/*cor do texto dentro da tabela*/
+}
+
+p {
+color: blue;
+/*cor do parágrafo*/
+}
+
+body {
+background-color: beige;
+}
+
+th {
+background-color: tan;
+}
+
+th,
+td {
+border: 2px solid black;
+padding: 8px;
+text-align: center;
+}
+
+
+img {
+width: 175px;
+height: 130px;
+margin: 0px;
+}
